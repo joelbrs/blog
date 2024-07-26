@@ -1,0 +1,13 @@
+{
+  "label": "Database Internals",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "Database Internals Overview"
+  },
+  "customProps": {
+    "description": "Database Internals"
+  }
+}
