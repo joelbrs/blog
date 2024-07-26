@@ -10,5 +10,5 @@ O blog é um local de **compartilhamento** de conhecimento sobre as tecnologias 
 
 Seguirei alguns Learning Paths para me guiar nessa jornada.
 
-- [Learning Path Backend](https://joelbrs.github.io/blog/learning-path-backend)
-- [Learning Path Servless](https://joelbrs.github.io/blog/learning-path-servless)
+- [Learning Path Backend](https://joelbrs.github.io/blog/learning-path/backend)
+- [Learning Path Servless](https://joelbrs.github.io/blog/learning-path/servless)
