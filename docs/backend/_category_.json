@@ -1,0 +1,13 @@
+{
+  "label": "Backend Studies",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "Backend Studies Overview"
+  },
+  "customProps": {
+    "description": "Backend Studies"
+  }
+}
