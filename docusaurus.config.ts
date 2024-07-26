@@ -8,7 +8,7 @@ const config: Config = {
     "Um blog criado para compartilhar os conhecimentos que estou estudando.",
   favicon: "img/favicon.ico",
   url: "http://joelbrs.github.io",
-  baseUrl: "/blog",
+  baseUrl: "/blog/",
   organizationName: "joelbrs", // Usually your GitHub org/user name.
   projectName: "blog", // Usually your repo name.
   onBrokenLinks: "throw",
