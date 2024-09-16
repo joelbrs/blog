@@ -1,13 +1,13 @@
 {
-  "label": "Backend Studies",
+  "label": "Backend",
   "collapsible": true,
   "collapsed": true,
   "className": "red",
   "link": {
     "type": "generated-index",
-    "title": "Backend Studies Overview"
+    "title": "Backend - Visão Geral"
   },
   "customProps": {
-    "description": "Backend Studies"
+    "description": "Backend"
   }
 }
