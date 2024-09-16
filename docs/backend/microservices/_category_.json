@@ -1,0 +1,14 @@
+{
+    "label": "Microsserviços",
+    "collapsible": true,
+    "collapsed": true,
+    "className": "red",
+    "link": {
+      "type": "generated-index",
+      "title": "Microsserviços - Visão Geral"
+    },
+    "customProps": {
+      "description": "Microsserviços"
+    }
+  }
+  
