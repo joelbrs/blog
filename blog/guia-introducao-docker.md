@@ -3,7 +3,7 @@ slug: guia-introducao-docker
 title: Guia de Introdução ao Docker
 authors:
   name: Joel da Silva Pereira Filho
-  title: Web Developer
+  title: Backend Developer
   url: https://github.com/joelbrs
   image_url: https://github.com/joelbrs.png
 tags: [docker, devops, beginners]

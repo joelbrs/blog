@@ -35,7 +35,7 @@ const config: Config = {
           remarkPlugins: [require("mdx-mermaid")],
         },
         blog: {
-          showReadingTime: true
+          showReadingTime: true,
         },
         theme: {
           customCss: "./src/css/custom.css",
