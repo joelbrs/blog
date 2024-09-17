@@ -8,7 +8,7 @@ const config: Config = {
     "Um blog criado para compartilhar os conhecimentos que estou estudando.",
   favicon: "img/favicon.ico",
   url: "http://joelbrs.github.io",
-  baseUrl: "/blog",
+  baseUrl: "/",
   organizationName: "joelbrs", // Usually your GitHub org/user name.
   projectName: "blog", // Usually your repo name.
   onBrokenLinks: "throw",
@@ -36,6 +36,9 @@ const config: Config = {
         },
         blog: {
           showReadingTime: true,
+          showLastUpdateTime: true,
+          sortPosts: "ascending",
+          blogSidebarTitle: "Todos os posts",
         },
         theme: {
           customCss: "./src/css/custom.css",
