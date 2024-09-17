@@ -8,14 +8,15 @@ const config: Config = {
     "Um blog criado para compartilhar os conhecimentos que estou estudando.",
   favicon: "img/favicon.ico",
   url: "http://joelbrs.github.io",
-  baseUrl: "/blog/",
+  baseUrl: "/blog",
   organizationName: "joelbrs", // Usually your GitHub org/user name.
   projectName: "blog", // Usually your repo name.
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
+  trailingSlash: false,
   i18n: {
     defaultLocale: "pt-BR",
-    locales: ["pt-BR"],
+    locales: ["pt-BR", "en-US"],
   },
   presets: [
     [
@@ -33,7 +34,9 @@ const config: Config = {
           editCurrentVersion: true,
           remarkPlugins: [require("mdx-mermaid")],
         },
-        blog: false,
+        blog: {
+          showReadingTime: true
+        },
         theme: {
           customCss: "./src/css/custom.css",
         },
@@ -64,6 +67,7 @@ const config: Config = {
           label: "GitHub",
           position: "right",
         },
+        { to: "blog", label: "Posts", position: "left" },
       ],
     },
     footer: {
