@@ -8,7 +8,7 @@ const config: Config = {
     "Um blog criado para compartilhar os conhecimentos que estou estudando.",
   favicon: "img/favicon.ico",
   url: "http://joelbrs.github.io",
-  baseUrl: "/",
+  baseUrl: "/studies",
   organizationName: "joelbrs", // Usually your GitHub org/user name.
   projectName: "blog", // Usually your repo name.
   onBrokenLinks: "throw",
@@ -49,7 +49,7 @@ const config: Config = {
 
   themeConfig: {
     navbar: {
-      title: "Joel's Blog",
+      title: "Joel's Studies",
       logo: {
         alt: "Joel Filho",
         src: "img/logo.jpg",
